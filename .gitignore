@@ -1,0 +1,21 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache / temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
